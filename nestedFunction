@@ -1,0 +1,21 @@
+#!/bin/bash
+
+love () {
+	echo "Hello I am mahin"
+	echo "Aiub"
+	echo "CSE"
+}
+echo
+love1 () {
+	echo "Govt Ashek Mahmud collage"
+	echo "Science"
+}
+echo 
+love2 () {
+	echo "Jamalpur Zilla school"
+	echo "Science"
+}
+
+love
+love1
+love2

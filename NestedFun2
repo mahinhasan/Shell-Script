@@ -1,0 +1,35 @@
+#!/bin/bash
+
+School () {
+	echo "School inform: "
+	echo "Jamalpur zilla school"
+	echo "Jamalpur"
+	Collage
+}
+
+Collage () {
+	echo 
+	echo "My collage inform: "
+	echo "Govt ashek mahmud collage"
+	echo "Jamalpur"
+	echo "Science"
+	Versity
+}
+
+Versity () {
+	echo 
+	echo "My versity inform: "
+	echo "American International University ,Bangladesh"
+	echo "Cse"
+	echo "Kuril,Dhaka"
+	Thanks
+}
+Thanks () {
+	echo 
+	echo "Thank You Enveryone "
+	echo "Good Bye"
+}
+
+School
+
+

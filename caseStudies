@@ -1,0 +1,22 @@
+#!/bin/bash
+echo
+echo Please one of the option:
+echo
+echo a = Display date and time
+echo b = List of and directorise
+echo c = List of usr loged in
+echo d = Check system uptime
+echo
+	read choice
+	case $choice in
+
+		a) date
+		;;
+		b) ls
+		;;
+		c) who
+		;;
+		d) uptime
+		;;
+		*) echo Invalid choice Sorry!
+	esac
