@@ -1,3 +1,2 @@
-# Shell-Script
-# Shell-Script
+# SHELL-SCRIPTING
 # SHELL-SCRIPTING
